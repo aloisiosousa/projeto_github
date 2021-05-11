@@ -5,3 +5,9 @@ Os principais comandos - Vitor
 Professor Aloísio Soousa - Bia 
 
 Todos os alunos estão prestando atenção na aula...
+
+Lista de alunos que estão na aula 
+1 - Mateus
+2 - Vitor
+3 - Thuram
+4 - Heloisa
