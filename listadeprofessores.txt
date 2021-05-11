@@ -2,3 +2,19 @@ Lista de Professores
 
 1 - Aloísio 
 2 - Pedro
+
+
+comandos básicos
+
+Criar repositório local - git init
+
+git remote origin master https://aloisiosousa/github/nome do projeto
+
+git status - Estado do arquivo no repositório
+
+git add e nome do arquivo
+git add .
+
+git commit -a -m "mensagem desejada""
+
+git push origin master
