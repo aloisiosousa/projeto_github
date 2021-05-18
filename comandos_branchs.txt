@@ -1,0 +1,6 @@
+comandos para usar o branchs
+
+git checkout - b e nome do branch // Criar branch
+git checkout e nome do branch // entrar no branch
+git branch // Verificar branch ativo
+git log // verificar os commits
